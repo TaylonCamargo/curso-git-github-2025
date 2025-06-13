@@ -1,4 +1,4 @@
 git add - adiciona as informações
 git commit -m - comenta e registra as informações
-git branch - mostra as branches
+git Branch - mostra as branches
 
